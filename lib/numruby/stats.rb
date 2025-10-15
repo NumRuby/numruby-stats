@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "stats/version"
+require_relative 'stats/version'
 
 module Numruby
   module Stats
